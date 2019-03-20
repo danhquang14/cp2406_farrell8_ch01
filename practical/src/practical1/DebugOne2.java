@@ -1,3 +1,5 @@
+package practical1;
+
 public class DebugOne2 {
 
     public static void main(String[] args) {

@@ -1,5 +1,4 @@
-public class ErrorTest
-/*  This class displays a test message 
+class ErrorTest
 {
    public static void main(String[] args)
    {
